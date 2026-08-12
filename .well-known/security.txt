@@ -1,0 +1,4 @@
+Contact: mailto:buinhuy9082@icloud.com
+Expires: 2027-12-31T23:59:59z
+Preferred-Languages: en
+Canonical: https://flarerapids.com/.well-known/security.txt

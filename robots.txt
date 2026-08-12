@@ -1,0 +1,12 @@
+# FlareRapids Studio - robots.txt
+# https://flarerapids.com/robots.txt
+
+User-agent: *
+Allow: /
+Disallow: /private/
+
+# Crawl-delay (seconds) for compliant bots
+Crawl-delay: 1
+
+# Sitemap
+Sitemap: https://flarerapids.com/sitemap.xml
